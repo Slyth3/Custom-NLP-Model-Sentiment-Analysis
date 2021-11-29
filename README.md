@@ -14,7 +14,7 @@ This was automatically labled (using emoticons) and doesnt have neutral tweets l
 1. [Sentiment140](https://www.kaggle.com/milobele/sentiment140-dataset-1600000-tweets)
 1. [Twitter and Reddit](https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset) 
 1. [US airlines](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) 
-1.[Apple sentiment](https://www.kaggle.com/slythe/apple-twitter-sentiment-crowdflower) 
+1. [Apple sentiment](https://www.kaggle.com/slythe/apple-twitter-sentiment-crowdflower) 
 
 ## Known issues with sentiment analysis:
 * Sarcasm - "thanks FNB, now I cant open my account cause its frozen" 
