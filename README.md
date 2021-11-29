@@ -1,6 +1,6 @@
 # Custom NLP Model for Sentiment Analysis
 
-As per [Kaggle notebook](https://www.kaggle.com/milobele/sentiment140-dataset-1600000-tweets)
+As per [Kaggle notebook](https://www.kaggle.com/slythe/twitter-sentiment-analysis-custom-model)
 
 ## Project Summary 
 Train model to predict sentiment analysis. This model will the be used to predict Tweets that reference one of the top 5 banks in South Africa.
