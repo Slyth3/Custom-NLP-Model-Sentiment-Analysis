@@ -3,12 +3,13 @@
 As per [Kaggle notebook](https://www.kaggle.com/slythe/twitter-sentiment-analysis-custom-model)
 
 ## Project Summary 
-Train model to predict sentiment analysis. This model will the be used to predict Tweets that reference one of the top 5 banks in South Africa.
+Extract, Process and Predict the sentiment of Twitter tweets referencing South Africa's top 5 banks.
 
-***Note***: I used mutiple datasets to do this with Sentiment 140 being the main contributor of tweets (1.6 million)
-This was automatically labled (using emoticons) and doesnt have neutral tweets labled
+Multiple models were created and tested to predict sentiment of tweets as either postive, neutral or negative
 
-**Note** Proof of concept version was completed using a [pretrained model](https://github.com/Slyth3/Sentiment-analysis-on-South-African-Banks-POC) (Textblob) 
+Note: 
+1. Multiple datasets were used as training of the model, with Sentiment 140 being the main contributor of tweets (1.6 million) 
+2. Proof of concept version was completed using a pretrained model (Textblob)
 
 ## Datasets used
 1. [Sentiment140](https://www.kaggle.com/milobele/sentiment140-dataset-1600000-tweets)
